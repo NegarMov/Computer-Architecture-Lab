@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/ISE Design/CAW_02/full_adder_using_decoder_tb_isim_beh.exe" -prj "D:/ISE Design/CAW_02/full_adder_using_decoder_tb_beh.prj" "work.full_adder_using_decoder_tb" 

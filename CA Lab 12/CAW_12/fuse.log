@@ -1,0 +1,32 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "E:/Projects/ISE Design/CAW_12/basic_computer_tb_isim_beh.exe" -prj "E:/Projects/ISE Design/CAW_12/basic_computer_tb_beh.prj" "work.basic_computer_tb" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/ROM_16x8.vhd" into library work
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/REGx8.vhd" into library work
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/RAM128x8.vhd" into library work
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/pulse_generator.vhd" into library work
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/ALUx8.vhd" into library work
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/basic_computer.vhd" into library work
+Parsing VHDL file "E:/Projects/ISE Design/CAW_12/basic_computer_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity pulse_generator [\pulse_generator(5)\]
+Compiling architecture behavioral of entity ROM16x8 [rom16x8_default]
+Compiling architecture behavioral of entity REGx8 [regx8_default]
+Compiling architecture behavioral of entity ALUx8 [\ALUx8(8,3)\]
+Compiling architecture behavioral of entity RAM128x8 [ram128x8_default]
+Compiling architecture behavioral of entity basic_computer [basic_computer_default]
+Compiling architecture behavior of entity basic_computer_tb
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 18 VHDL Units
+Built simulation executable E:/Projects/ISE Design/CAW_12/basic_computer_tb_isim_beh.exe
+Fuse Memory Usage: 37504 KB
+Fuse CPU Usage: 640 ms

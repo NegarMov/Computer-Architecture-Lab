@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Projects/ISE Design/CAW_12/basic_computer_tb_isim_beh.exe" -prj "E:/Projects/ISE Design/CAW_12/basic_computer_tb_beh.prj" "work.basic_computer_tb" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Projects/ISE Design/CAW_07/save_adder_multiplier_tb_isim_beh.exe" -prj "E:/Projects/ISE Design/CAW_07/save_adder_multiplier_tb_beh.prj" "work.save_adder_multiplier_tb" 

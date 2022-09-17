@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/ISE Design/CAW_06/carry_save_adder_tb_isim_beh.exe" -prj "D:/ISE Design/CAW_06/carry_save_adder_tb_beh.prj" "work.carry_save_adder_tb" 

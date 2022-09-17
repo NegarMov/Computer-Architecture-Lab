@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Projects/ISE Design/CAW_11/floating_point_adder_tb_isim_beh.exe" -prj "E:/Projects/ISE Design/CAW_11/floating_point_adder_tb_beh.prj" "work.floating_point_adder_tb" 
